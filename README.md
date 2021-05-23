@@ -43,5 +43,5 @@
 #### Project Demonstration <a name="demo"></a>
 - Demo  - SpringBoot & AngularJS RESTful API
      * **Serverside**
-        * (PDF document Link)[https://github.com/ammadaslam/advanced-data-centric-web-applications/blob/main/ServerSide_Demostration.pdf]
+        * (PDF document Link)[https://github.com/ammadaslam/advanced-data-centric-web-applications/blob/main/Serverside-Demonstration.pdf]
        
